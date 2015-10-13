@@ -16,7 +16,7 @@
   },
   "engines": {
     "node": "4.2.1"
-  }, 
+  },
   "devDependencies": {
     "jshint": "^2.5.6"
   },
