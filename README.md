@@ -1,5 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/OwenBrotherwood/CompanySandbox.png?label=ready&title=Ready)](https://waffle.io/OwenBrotherwood/CompanySandbox)
 [![Stories in In Progress](https://badge.waffle.io/OwenBrotherwood/CompanySandbox.png?label=in progress&title=In Progress)](https://waffle.io/OwenBrotherwood/CompanySandbox)
+[![Stories in Done](https://badge.waffle.io/OwenBrotherwood/CompanySandbox.png?label=done&title=Done)](https://waffle.io/OwenBrotherwood/CompanySandbox)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OwenBrotherwood/CompanySandbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # CompanySandbox
 A little exercise for myself to check the status of LoopBack(something old) as to how quickly it is possible to understand and produce a result from the latest version. I would also like to test Xamarin as a IDE(something new) with Loopback . I may see if I can reuse the Loopback examples(someting borrowed) as reference and of course, reevaluate StrongLoops Build, Deploy and Scale(something blue) in order that a scalable solution is obtained.
