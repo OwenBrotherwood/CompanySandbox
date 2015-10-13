@@ -20,14 +20,12 @@ A basic data definition is usually needed for any little sandbox. I often have t
 * One or more directors and beneficial owners: contacts. 
   * Probably  a use case for another data model but I will see
 
-  ## Inteface
-  One thing I want is AAA and may look at Auth0 to see if it is still as easy as last time I looked at it: depends how it fits with Loopback
+## Inteface
+One thing I want is AAA and may look at Auth0 to see if it is still as easy as last time I looked at it: depends how it fits with Loopback
 
-  ### API
-  Some API for insert update and delete. Swagger documentation a must.
+### API
+Some API for insert update and delete. Swagger documentation a must.
 
-  ### "Human Interface"
-  See how easy Xamarin is to create a human interface. Xamarin is something I want to look at due to C#, new Loopback support and general interest. Although I will probably make a simple HTLM5 version.
-
-
+### "Human Interface"
+See how easy Xamarin is to create a human interface. Xamarin is something I want to look at due to C#, new Loopback support and general interest. Although I will probably make a simple HTLM5 version.
 
