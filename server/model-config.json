@@ -32,7 +32,13 @@
     "dataSource": "db",
     "public": false
   },
-  "companyModel": {
+  "company": {
+    "dataSource": "db",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
+  },
+  "contact": {
     "dataSource": "db",
     "public": true,
     "$promise": {},
